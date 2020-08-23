@@ -1,0 +1,16 @@
+#include<studio.h>
+Int main()
+{
+ int marks;
+ printf ("enter the marks");
+ scanf("%d", &marks)
+ If( marks>=90)
+   printf ("grade A\n");
+ if(marks>=80)
+   printf("grade B\n");
+ if(marks>=70);
+    printf("grade C\n");
+  if(marks>=60);
+    printf("grade D\n");
+ return 0;
+}
